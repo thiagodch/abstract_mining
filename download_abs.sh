@@ -1,0 +1,1 @@
+esearch -db pubmed -query "juvenile idiopathic arthritis" | efetch -format medline”
