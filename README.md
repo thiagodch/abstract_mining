@@ -1,6 +1,9 @@
 # abstract_mining
 Repository for scripts used for the abstract mining project for the Data Science 2016 Course at Poli USP
 
+# Install the entrezdirect from NCBI to use the esearch
+https://www.ncbi.nlm.nih.gov/books/NBK179288/
+
 ## download_abs.sh
 Bash script for downloading abstracts. The query term of interest should be placed in the "queryterm" placeholder. The output is a list with all relevant abstracts concatenated into a single file. In the script, the placeholder is "juvenile idiopathic arthritis", the query used in our project, for reproducibility.
 
